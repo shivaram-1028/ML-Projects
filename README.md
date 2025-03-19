@@ -1,2 +1,2 @@
 # ML-Projects
-These are machine learning projects I developed as part of my learning journey in ML. 
+These are machine learning projects that I have developed while learning ML.
